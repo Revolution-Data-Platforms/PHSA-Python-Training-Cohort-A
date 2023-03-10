@@ -1,4 +1,4 @@
-# PHSA-Python-Training
+# PHSA Python Training
 
 This repository will host lesson material, projects and solution code for the PHSA Python training course. 
 
